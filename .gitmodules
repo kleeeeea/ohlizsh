@@ -1,3 +1,12 @@
 [submodule "custom/themes/powerlevel9k"]
 	path = custom/themes/powerlevel9k
 	url = git@github.com:bhilburn/powerlevel9k.git
+[submodule "custom/plugins/zsh-autopair"]
+	path = custom/plugins/zsh-autopair
+	url = https://github.com/hlissner/zsh-autopair.git
+[submodule "custom/plugins/zsh-autosuggestions"]
+	path = custom/plugins/zsh-autosuggestions
+	url = https://github.com/zsh-users/zsh-autosuggestions.git
+[submodule "custom/plugins/zsh-syntax-highlighting"]
+	path = custom/plugins/zsh-syntax-highlighting
+	url = https://github.com/zsh-users/zsh-syntax-highlighting.git
